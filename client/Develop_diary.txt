@@ -1,0 +1,39 @@
+2022/10/8{
+    back-end side
+    ==> make a function called "listone", this function will list all the post by a specific userId
+    it is a post request and it can be used by using
+    /api/post/lintone
+    front-end should send '{userId: userId}' in a json file to use this function. 
+    it will return
+    {
+        "_id": 
+        "userId":
+        "title": 
+        "content":
+        "postNum":
+        "image": 
+        "audio": 
+        "lat": 
+        "long": 
+        "__v": 
+    }
+    ==================================================================================
+    Check funciotn
+    1. listone function works by Postman
+    2. website post function works but the location won't automatically show on the map. 
+
+    By ray
+}
+
+2022/10/11{
+    back-end side update the user profile edit function. Front end need to use the API below. 
+    /api/user/userprofileEdit
+    front end should send a body with the schema below
+    {
+        "userId": "6345625ee845fee",
+        "username": "hahaha",
+        "about": "I am a new User",
+        "email": "111@gmail.com"
+    }
+    back end side will send if it is successful or not. 
+}

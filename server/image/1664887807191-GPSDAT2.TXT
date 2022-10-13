@@ -1,0 +1,4 @@
+Altitude: 0.000
+Longtitude: -27.512
+Latitude: 152.981140
+Time: 07:58:49.00
