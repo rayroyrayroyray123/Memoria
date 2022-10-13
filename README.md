@@ -16,8 +16,8 @@ made for DECO7381 course by Team DECOmpile.
 Our website: https://memoriaapp.herokuapp.com/
 ## Repositories
 - [Front end](
-https://github.com/KavyaMenda/DECO7381_Hiking/tree/jisoo_new/client) - Code base for Front-end on Github
-- [Back end](https://github.com/KavyaMenda/DECO7381_Hiking/tree/jisoo_new/server) - Code base for Back-end on Github
+https://github.com/rayroyrayroyray123/Memoria/tree/main/client) - Code base for Front-end on Github
+- [Back end](https://github.com/rayroyrayroyray123/Memoria/tree/main/server) - Code base for Back-end on Github
 ## Features
 ### Post feature
 - Create post
@@ -35,7 +35,7 @@ https://github.com/KavyaMenda/DECO7381_Hiking/tree/jisoo_new/client) - Code base
 ### Set Up
 1. Clone the repository
 ```console
-foo@bar:~$ git clone https://github.com/KavyaMenda/DECO7381_Hiking.git/
+foo@bar:~$ git clone https://github.com/rayroyrayroyray123/Memoria.git
 ```
 #### Back-End
 1. change directory to back-end side
