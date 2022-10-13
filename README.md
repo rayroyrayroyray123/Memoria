@@ -1,8 +1,8 @@
-# MEMORIA📷 - Take a step back to live in the moment going old school
+# MEMORIA📷 - Take a step back to live in the moment in old school style
 Use Memoria to record audio memories with a click of a button.
 Track your records on a map to look back on the moment.
 Focus on the present, keep every bit of it! This product is
-made for DECO7381 course by Team DECOmpile.
+made for DECO7381 course by Team Missionpossible.
 ## Technology Stack
 | Name | Stack | Link |
 | --- | ----------- | ----------- |
