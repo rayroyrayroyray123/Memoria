@@ -1,0 +1,5 @@
+TinyGPS++: arduiniana. TinyGPS++|Arduiniana. (n.d.). Retrieved October 19, 2022, from http://arduiniana.org/libraries/tinygpsplus/ 
+
+Arduino - Switch: Arduino tutorial. Arduino Getting Started. (n.d.). Retrieved October 19, 2022, from https://arduinogetstarted.com/tutorials/arduino-switch 
+
+Simple arduino voice recorder for spy bug voice recording. Circuit Digest - Electronics Engineering News, Latest Products, Articles and Projects. (n.d.). Retrieved October 19, 2022, from https://circuitdigest.com/microcontroller-projects/simple-arduino-voice-recorder-for-spy-bug-voice-recording 
