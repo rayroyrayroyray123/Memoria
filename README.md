@@ -2,7 +2,8 @@
 Use Memoria to record audio memories with a click of a button.
 Track your records on a map to look back on the moment.
 Focus on the present, keep every bit of it! This product is
-made for DECO7381 course by Team Missionpossible.
+made for DECO7381 course by Team Mission: Possible.
+
 ## Technology Stack
 | Name | Stack | Link |
 | --- | ----------- | ----------- |
@@ -12,8 +13,32 @@ made for DECO7381 course by Team Missionpossible.
 | MongoDB | Database | https://www.mongodb.com/ |
 | Figma | UI/UX | https://www.figma.com/ |
 | Google Map | API | https://developers.google.com/apis-explorer |
+| Arduino IDE | Ardunio | https://www.arduino.cc/ |
 
+## Hardware Components
+- ELEGOO Nano V3.0 Compatible with Arduino IDE
+- GPS Flight Controller Tracking Arduino GPS Module GY-GPS6MV2 NEO6M
+- SanDisk 32GB Ultra microSDHC UHS-I Memory Card with Adapter - 120MB/s, C10, U1, Full HD, A1
+- Micro SD Card Module SPI for Arduino PIC
+- MAX9814 Microphone AGC Amplifier Board Module Auto Gain Control for Arduino
+- SPDT Miniature Toggle Switch - Solder Tag
+- Elegoo Multicolored Dupont Wire Male to Female, Male to Male, Female to Female Breadboard Jumper Wires Ribbon Cables for arduino
+- Red 5mm LED 8mcd Round Diffused
+
+## Running the device
+- Turn the power source on: This should start the Arduino, and the sketch starts to run, tracking the GPS location through the GPS module
+- When the switch is turned on, the GPS location and timestamp is written to a file in the SD card, and the Microphone starts recording the audio
+- When the switch is turned off, the microphone stops recording the audio, and stores it on to the SD card.
+- The data can be accessed via the SD card
+
+## Rewriting the Arduino code
+- Open the Ardunio (.ino) sketch on the Arduino IDE
+- Connect the Arduino via USB
+- On MacOS, it is automatically detected over the port
+- On Windows, CH340 Driver must be installed: https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all for it to be detected on the port
+- Upload the sketch to the Arduino, to run it
 Our website: https://memoriaapp.herokuapp.com/
+
 ## Repositories
 - [Front end](
 https://github.com/rayroyrayroyray123/Memoria/tree/main/client) - Code base for Front-end on Github

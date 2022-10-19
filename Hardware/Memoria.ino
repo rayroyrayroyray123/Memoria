@@ -8,11 +8,16 @@
 // ezButton
 // SoftwareSerial
 
+// TinyGPS++ usage was learnt from http://arduiniana.org/libraries/tinygpsplus/
 #include <TinyGPS++.h>
 #include <SoftwareSerial.h>
 #include <SD.h>
 #include<SPI.h>
+
+// eZButton usage was learnt from https://arduinogetstarted.com/tutorials/arduino-switch
 #include <ezButton.h>
+
+// TMRpcm usage was learnt from https://circuitdigest.com/microcontroller-projects/simple-arduino-voice-recorder-for-spy-bug-voice-recording
 #include <TMRpcm.h>
 
 // Arduino pins for Software Serial
